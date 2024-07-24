@@ -428,6 +428,7 @@ main {
     gap: 1.5rem;
   }
   .avatar {
+    border-radius: 50%;
     width: 30px;
   }
   /* Main section */
