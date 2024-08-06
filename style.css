@@ -94,6 +94,7 @@ nav {
 .avatar {
   width: 50px;
   margin: 1rem 0;
+  border-radius: 50%;
 }
 .avatar:hover {
   outline: 2px solid var(--Orange);
@@ -420,7 +421,7 @@ main {
     display: flex;
   }
   .nav_link {
-    height: fit-content;
+    
     font-weight: 700;
     color: var(--Black);
   }
